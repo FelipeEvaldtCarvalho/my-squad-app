@@ -42,7 +42,6 @@ export default function Team({ team, setStore, store, teamIndex }) {
           aria-label="delete"
           color="primary"
           style={{
-            top: 0,
             position: "absolute",
             right: 5,
             top: 5,
