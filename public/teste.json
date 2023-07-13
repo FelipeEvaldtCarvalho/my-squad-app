@@ -1,0 +1,18 @@
+{
+  "times": [
+    {
+      "name": "skt f1",
+      "color": "rgb(173, 0, 255)",
+      "members": [
+        {
+          "name": "3 iniciados",
+          "class": "mago"
+        },
+        {
+          "name": "Darwin",
+          "class": "mago"
+        }
+      ]
+    }
+  ]
+}

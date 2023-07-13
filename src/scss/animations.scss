@@ -1,0 +1,50 @@
+@keyframes color-animation {
+  0% {
+    stroke: #fff;
+  }
+  20% {
+    stroke: #83e0e5;
+  }
+  40% {
+    stroke: #00b5ce;
+  }
+  60% {
+    stroke: #06424b;
+  }
+  80% {
+    stroke: #9dbfcd;
+  }
+  100% {
+    stroke: #fff;
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes txt-color-animation {
+  0% {
+    color: #fff;
+  }
+  20% {
+    color: #83e0e5;
+  }
+  40% {
+    color: #00b5ce;
+  }
+  60% {
+    color: #06424b;
+  }
+  80% {
+    color: #9dbfcd;
+  }
+  100% {
+    color: #fff;
+  }
+}
